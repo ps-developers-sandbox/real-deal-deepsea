@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-amazing new caption!
+Magic Amazing New Caption!!!
 
 ![octofez](https://octodex.github.com/images/octofez.png)
 {: .center}
