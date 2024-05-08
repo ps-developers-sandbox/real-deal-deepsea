@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I wanna be a GIT Ninja!
 
 ![dojocat](https://octodex.github.com/images/dojocat.jpg)
 {: .center}
