@@ -1,9 +1,9 @@
 ---
 layout: slide
 title: "Welcome to our slide deck!"
----
+---d
 
-Caption here
+Marcin Perkowski 2
 
 ![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 {: .center}
